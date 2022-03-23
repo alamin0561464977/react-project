@@ -1,0 +1,26 @@
+.header{
+    height: 100px;
+    width: 500px;
+    margin: auto;
+    margin-top: 20px;
+    border-radius: 20px;
+    box-shadow: 3px 3px 8px 3px rgb(32, 82, 82);
+    background-color: aqua;
+    padding-top: 80px;
+}
+.header input{
+    padding: 5px;
+    font-size: 18px;
+    font-weight: 600;
+    margin-right: 5px;
+    border-radius: 8px;
+}
+.button{
+    padding: 5px 30px;
+    font-size: 18px;
+    font-weight: 600;
+    margin-right: 5px;
+    border-radius: 8px;
+    background-color: rgb(206, 135, 5);
+    color: #fff;
+}

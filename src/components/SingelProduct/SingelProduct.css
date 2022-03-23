@@ -1,0 +1,25 @@
+.product{
+    display: grid;
+    grid-template-columns: repeat(2, 4fr);
+    background-color: rgb(121, 202, 202);
+    margin: 20px 250px;
+    padding: 15px;
+    border-radius: 20px;
+}
+img{
+    width: 400px;
+    height: 350px;
+    border-radius: 10px;
+}
+.description{
+    padding: 10px;
+}
+.deleteDutton{
+    padding: 5px 10px;
+    font-size: 18px;
+    font-weight: 600;
+    margin-right: 5px;
+    border-radius: 8px;
+    background-color: rgb(185, 42, 42);
+    color: #fff;
+}
